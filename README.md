@@ -1,8 +1,5 @@
 # sentimentanalyis_1
 		
-We, Vinod Ghanchi and Sidharth Nair from KJ Somaiya college of Engineering, performed this task/project as a part of internship under the guidance of Asst. professor Mr. Vaibhav Vasani.
-The aim of this task was to do sentiment analysis of reviews of products on amazon (online shopping website) using various models like svm, naïve bayes, etc. <br/> 
-Flowchart of the project/task:
  ![image](https://user-images.githubusercontent.com/80514865/189485510-8773d14d-2f14-4a48-917e-505bca6f1d8e.png)
 
 Steps involved in completing this task:
