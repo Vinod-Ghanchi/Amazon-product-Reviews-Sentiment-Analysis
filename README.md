@@ -1,4 +1,4 @@
-# sentimentanalyis of amazon  reviews dataset
+# Sentiment Analyis of Amazon reviews dataset
 		
  ![image](https://user-images.githubusercontent.com/80514865/189485510-8773d14d-2f14-4a48-917e-505bca6f1d8e.png)
 
